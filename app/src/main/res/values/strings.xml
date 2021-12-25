@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechnicalExam</string>
+    <string name="add_task">Add Task</string>
+    <string name="quote">HONESTY is KEY to SUCCESS</string>
+    <string name="task_list">Decenternet Task List</string>
+    <string name="description">A sample image is given below to get an idea about what we are going to do in this article. Note that we are going to implement this project using the Java language. </string>
+    <string name="state_pending">Pending</string>
+    <string name="state_completed">Completed</string>
+</resources>
